@@ -1,0 +1,22 @@
+{
+	"Search" : "search bar in header section",
+	"Account" : "my Account login section",
+	"LoginLink" : "login link in header section",
+	"MiniCart" : "mini cart icon in header section",
+	"Whishlist" : "whishlist in header section",
+	"CategoryTile" : "a content tile on the page for category tile",
+	"ProductTile" : "product tile on the home page",
+	"ProductTileName" : "name on the product tile of a product",
+	"ProductTilePrice" : "price section on product tile",
+	"ProductTileRatings" : "product ratings on the product tile",
+	"ViewDetailsCategoryTiles" : "click on details to display the details of the category",
+	"PromotionalBanner" : "promotional banner with callout on header",
+	"PromotionalBannerClose" : "close the promotional banner section",
+	"Navigation" : "navigation categories in header navigation",
+	"Logo" : "Logo of the company when clicked takes user to home page",
+	"LoadMoreProductsButton" : "load more button to render more products",
+	"ProductTileRow" : "a row of products displayed in tiles with price, variations of colors etc.",
+	"HeroFullWidthBanner" : "Home page hero banner image with a carousel",
+	"EmailSignup" : "footer text box used to sign up with email",
+	"FooterContent" : "content links in footer of ecommerce site"
+}

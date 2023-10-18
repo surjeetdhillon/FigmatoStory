@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 23
+names: ['Account', 'CategoryTile', 'EmailSignup', 'FooterContent', 'FooterFullWidthBanner', 'HeroFullWidthBanner', 'LoadMoreProductsButton', 'LoginLink', 'Logo', 'MiniCart', 'MyAccount', 'Navigation', 'ProductTile', 'ProductTileName', 'ProductTilePrice', 'ProductTileRatings', 'ProductTileRow', 'PromotionalBanner', 'PromotionalBannerClose', 'Search', 'SocialHandle', 'ViewDetailsCategoryTiles', 'Whishlist']
+
+roboflow:
+  workspace: surjeet
+  project: webdesigndetector
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/surjeet/webdesigndetector/dataset/1
